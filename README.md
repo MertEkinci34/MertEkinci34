@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mert Ekinci</h1>
-<h3 align="center">A passionate Backend .NET developer</h3>
+<h3 align="center">A passionate Backend .NET Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mertekinci34&label=Profile%20views&color=0e75b6&style=flat" alt="mertekinci34" /> </p>
 
